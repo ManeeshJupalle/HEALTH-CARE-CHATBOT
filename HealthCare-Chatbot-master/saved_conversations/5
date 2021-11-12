@@ -1,0 +1,15 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : hi
+bot : - Hello. How are you feeling today?
+user : am good
+bot : - okay. your age has been stored. Which city do you live in?
+user : hi my name is maneesh and i am from nandyal
+bot : - okay, did you get hurt, or it is a suddern paining.
+user : am hurt
+bot : - good to know. how may i assist you then?
+user : suggest me medicines to heal
+bot : - appointment details saved. you shall be contacted shortly.
+user : 7730926662
+bot : - - are you online?
+user : yes
+bot : - Bye. Nice talking to you
