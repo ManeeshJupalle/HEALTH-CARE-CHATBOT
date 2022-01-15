@@ -1,0 +1,46 @@
+<style type="text/css">
+        .fixed-panel {
+            min-height: 400px;
+            max-height: 400px;
+            background-color: #19313c;
+            color: white;
+            overflow: auto;
+        }
+        .media-list {
+            overflow: auto;
+            clear: both;
+            display: table;
+            overflow-wrap: break-word;
+            word-wrap: break-word;
+            word-break: normal;
+            line-break: strict;
+        }
+        .panel {
+            margin-bottom: 20px;
+            background-color: #fff;
+            border: 6px solid transparent;
+            border-radius: 25px;
+        }
+        .panel-info {
+            border-color: #b1c0c7;
+        }
+        .panel-info>.panel-heading {
+            color: white;
+            background-color: #95c5dd;
+            border-color: #92bace;
+        }
+        .panel-footer {
+            padding: 10px 15px;
+            background-color: #9dbece;
+            border-top: 1px solid #71c1e9;
+            border-bottom-right-radius: 3px;
+            border-bottom-left-radius: 3px
+        }
+        body {
+            background: rgb(145, 215, 224); /* Old browsers */
+            background: -moz-linear-gradient(-45deg, rgb(114, 164, 170) 0%, rgba(0,133,136,1) 9%, rgb(166, 197, 245) 52%, rgb(143, 150, 206) 100%); 
+            background: -webkit-linear-gradient(-45deg, rgba(96,143,149,1) 0%,rgba(0,133,136,1) 9%,rgb(173, 195, 228) 52%,rgb(117, 130, 226) 100%); 
+            background: linear-gradient(135deg, rgba(96,143,149,1) 0%,rgba(0,133,136,1) 9%,rgb(144, 161, 185) 52%,rgb(205, 208, 233) 100%); 
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#608f95', endColorstr='#1a1e3b',GradientType=1 ); 
+        }
+        </style>
